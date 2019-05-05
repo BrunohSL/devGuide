@@ -6,6 +6,7 @@ ____
   * **2 - PHP + Composer**
   * **3 - Laravel**
   * **4 - NodeJs e ReactJs**
+  * **5 - Yarn**
 ____
 
 ## 1 - GitHub
@@ -49,3 +50,10 @@ ____
     * **npm -v** (Deve exibir a versão do npm que está instalada)
   * **sudo apt-get install -y build-essential**
   * **sudo npm install -g create-react-app**
+____
+## 5 - Yarn
+
+ * **curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -**
+ * **echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list**
+ * **sudo apt update**
+ * **sudo apt install yarn**
