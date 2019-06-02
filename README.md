@@ -7,6 +7,7 @@ ____
   * **3 - Laravel**
   * **4 - NodeJs e ReactJs**
   * **5 - Yarn**
+  * **6 - Phaser **
 ____
 
 ## 1 - GitHub
@@ -57,3 +58,11 @@ ____
  * **echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list**
  * **sudo apt update**
  * **sudo apt install yarn**
+____
+## 6 - Phaser
+
+ * Phaser GitHub -> https://github.com/photonstorm/phaser3-project-template
+ * Tutorial -> http://phaser.io/tutorials/making-your-first-phaser-3-game/part1
+ * ** git clone git@github.com:photonstorm/phaser3-project-template.git **
+ * ** npm install **
+ * ** npm start **
