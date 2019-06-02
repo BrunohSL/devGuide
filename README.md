@@ -7,7 +7,7 @@ ____
   * **3 - Laravel**
   * **4 - NodeJs e ReactJs**
   * **5 - Yarn**
-  * **6 - Phaser **
+  * **6 - Phaser**
 ____
 
 ## 1 - GitHub
@@ -63,6 +63,6 @@ ____
 
  * Phaser GitHub -> https://github.com/photonstorm/phaser3-project-template
  * Tutorial -> http://phaser.io/tutorials/making-your-first-phaser-3-game/part1
- * ** git clone git@github.com:photonstorm/phaser3-project-template.git **
- * ** npm install **
- * ** npm start **
+ * **git clone git@github.com:photonstorm/phaser3-project-template.git**
+ * **npm install**
+ * **npm start**
