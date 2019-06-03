@@ -63,6 +63,6 @@ ____
 
  * Phaser GitHub -> https://github.com/photonstorm/phaser3-project-template
  * Tutorial -> http://phaser.io/tutorials/making-your-first-phaser-3-game/part1
- * **git clone git@github.com:photonstorm/phaser3-project-template.git**
+ * **git clone git@github.com:BrunohSL/PhaserTutorial.git**
  * **npm install**
  * **npm start**
